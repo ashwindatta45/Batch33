@@ -1,2 +1,6 @@
 Initial commit
+<<<<<<< HEAD
 More changes in main branch
+=======
+Changes in feature branch
+>>>>>>> feature
